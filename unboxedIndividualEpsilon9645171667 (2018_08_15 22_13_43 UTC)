@@ -1,0 +1,4 @@
+[88.64,88.65,88.63,88.62,88.62,88.57] 
+
+
+GenomeConstr {res = 49.0, funcs = [[Value 3.938219],[Value (-4.7643995)],[DBranch Sub (Value (-2.0925732)) Var,DBranch Sub (SBranch Sqrt (SBranch Cos (Value (-0.95190525)))) (DBranch Mult (SBranch Cos Var) (SBranch Cos Var))]]}

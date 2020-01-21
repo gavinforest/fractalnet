@@ -1,0 +1,6 @@
+JOB "fractalhaskellVector"
+DATE "Sun Mar  6 11:05 2016"
+SAMPLE_UNIT "seconds"
+VALUE_UNIT "bytes"
+BEGIN_SAMPLE 0.00
+END_SAMPLE 0.00

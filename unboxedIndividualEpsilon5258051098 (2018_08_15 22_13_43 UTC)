@@ -1,0 +1,4 @@
+[90.2,90.2,90.2,90.2,90.2,90.2] 
+
+
+GenomeConstr {res = 34.0, funcs = [[Value (-1.0527511)],[SBranch Square (DBranch Add Var (Value 1.9328623)),DBranch Sub (SBranch Sin (SBranch Cos Var)) (DBranch Mult (DBranch Sub Var (Value 2.237689)) (DBranch Add Var (Value 4.8429356))),SBranch Sin Var],[Value 3.9554005,Value (-2.9707308),DBranch Mult Var Var,DBranch Mult (SBranch Square (Value (-3.0844693))) (SBranch Cos Var),SBranch Sin (Value (-3.9558613))],[Value (-1.2885766),SBranch Cos (SBranch Sin (DBranch Add (Value (-0.5990176)) Var)),Value (-2.1463227),DBranch Add (DBranch Mult Var Var) (SBranch Sqrt Var),SBranch Square (DBranch Mult (SBranch Cos (Value (-0.24414825))) (DBranch Add (Value (-1.6049342)) (Value (-2.6147854))))]]}
